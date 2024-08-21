@@ -1,0 +1,19 @@
+{
+  "short_stories": [
+    {
+      "title": "The Lost Key",
+      "author": "Jane Doe",
+      "content": "Once upon a time, in a small village nestled between mountains, there lived a young girl named Lily. One day, while exploring the woods, she stumbled upon an old key half-buried in the dirt. Intrigued, she picked it up and decided to find out where it belonged..."
+    },
+    {
+      "title": "The Moonlit Lake",
+      "author": "John Smith",
+      "content": "Under the silver glow of the moon, Sarah sat by the edge of the lake, her thoughts drifting like the gentle ripples on the water. She had always found solace in the tranquility of the night. Little did she know that tonight, she would encounter something magical..."
+    },
+    {
+      "title": "The Forgotten Diary",
+      "author": "Emily Johnson",
+      "content": "In the attic of her grandparents' old house, Anna stumbled upon a dusty diary tucked away in a corner. As she flipped through its pages, she discovered the secrets and untold stories of her family's past, unraveling mysteries that had long been forgotten..."
+    }
+  ]
+}
